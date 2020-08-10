@@ -1,4 +1,4 @@
-># **Acerca de Edwin Pulido**
+# **Acerca de Edwin Pulido**
 >
 >- **Nombre**: Edwin Orlando Pulido Ramirez
 >- **Edad**: 30 años
