@@ -1,6 +1,6 @@
 ># **Acerca de Edwin Pulido**
 >
->- **Nombre**:Edwin Orlando Pulido Ramirez
+>- **Nombre**: Edwin Orlando Pulido Ramirez
 >- **Edad**: 30 años
 >- **Documento**: Cédula 
 >- **Dirección**: Calle falsa 123
@@ -9,7 +9,7 @@
 > **Descripción**
 > Enfermero especialista en oncología con 8 años de experiencia clìnica,  estudiante de la maestría en Epidemiologìa Clìnica en la Pontificia Universidad Javeriana.   Experiencia de 3 años en estudios clínicos, actualmente trabajando en el Hospital  Universitario San Ignacio como asistente de investigaciones.
 >
-> **Expectativas con el curso de  Computación estadística**
+> **Expectativas con el curso de Computación Estadística**
 >
 > En este curso espero aprender conceptos básicos sobre: 
 > - Programación en bioestadística
@@ -18,7 +18,7 @@
 >
 > Adicionalmente, quisiera aprender a optimizar mi trabajo con la plataforma *RedCap* y la organización de los datos del registro clínico que actualmente estoy realizando. 
 >
-# Con mi primera aproximación  he aprendido a...
+# Con mi primera aproximación  he aprendido sobre
 >
 > - Que es un VCS
 >> - Características principales
